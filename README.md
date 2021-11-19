@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <a> • :man_student: Cursando Análise e Desenvolvimento de sistemas.</a>
-  <br><a> • :diamond_shape_with_a_dot_inside: Conhecimento em C++, CheatEngine, Python e JS.</a>
+  <br><a> • :diamond_shape_with_a_dot_inside: Conhecimento em <b>C++, CheatEngine, Python e JS</b>.</a>
   <br><a> • :page_with_curl: Trabalhando para expandir e aprimorar meus conhecimentos.</a>
  </div> 
  
