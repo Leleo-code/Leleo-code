@@ -1,4 +1,4 @@
-# Hello :v:
+# <div align="center"> Hello! Welcome to my profile :v: </div>
 
 <div align="center"> 
   <a> • :man_student: Cursando Análise e Desenvolvimento de sistemas.</a>
